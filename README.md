@@ -17,7 +17,7 @@ Installation
 
 Usage
 =====
-
+> You can put your exploit on Data/
 1. Run Start.BAT
 
 License
