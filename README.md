@@ -1,2 +1,2 @@
-# ps4emulator
-emulator for ps4
+# PS4 HOST
+Hosting for ps4
