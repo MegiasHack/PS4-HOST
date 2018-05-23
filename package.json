@@ -1,0 +1,30 @@
+{
+  "name": "PS4Sandbox",
+  "version": "1.0.0",
+  "description": "PS4Sandbox",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "colors": "^1.1.2",
+    "connect": "^3.6.6",
+    "content-disposition": "^0.5.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "fresh-up": "0.0.3",
+    "fs": "0.0.1-security",
+    "ip": "^1.1.5",
+    "local-ipv4-address": "0.0.2",
+    "mkdirp": "^0.5.1",
+    "morgan": "^1.9.0",
+    "quick-local-ip": "^1.0.7",
+    "serve-index": "^1.9.1",
+    "serve-static": "^1.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "ALEXZZZ9",
+  "license": "MIT"
+}
